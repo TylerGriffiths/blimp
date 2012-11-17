@@ -1,0 +1,9 @@
+<glade-catalog name="about_blimp_dialog" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="About Blimp Dialog" name="AboutBlimpDialog" 
+                        generic-name="AboutBlimpDialog" parent="GtkAboutDialog"
+                        icon-name="widget-gtk-about-dialog"/>
+  </glade-widget-classes>
+
+</glade-catalog>

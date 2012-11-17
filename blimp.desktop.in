@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Blimp
+_Comment=Blimp application
+Categories=GNOME;Utility;
+Exec=blimp
+Icon=blimp
+Terminal=false
+Type=Application
